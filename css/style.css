@@ -1,0 +1,66 @@
+    .form-inline{border: none;}
+    .form-inline input{
+      border: 0;
+      /*! box-shadow: 0 25px 50px 0 #fa78756e; */
+      padding: 26px 245px 26px 12px;
+      font-size: 18px;
+    }
+    .form-inline button{
+      
+
+
+}
+.btn-custom{
+  padding: 13px 40px;
+  font-size: 18px;
+  color: #fff;
+  text-transform: capitalize;
+  transition-duration: .4s;
+  background-color: #fcdb00;
+}
+
+.btn-custom:hover{border: 1px solid #fcdb00;
+                  background: transparent;
+                  color: #fcdb00;
+                  }
+.form-control:focus{
+  color: #495057;
+  background-color: #fff;
+  border: 1px solid #fcdb00;
+  outline: 0;
+  box-shadow: 0 0 0 0 #fcdb00}
+
+
+  .feature-section{padding-bottom: 50px;}
+  .feature-section .container{}
+  .feature-section .row{}
+  .feature-section ul{flex-wrap: nowrap;}
+  .feature-section li{padding: 0 18px;}
+  .feature-section li i{}
+  .features-icon{font-size: 32px;/*! padding: 0 20px; */}
+  .feature-content h1{font-size: 32px;font-weight: 600; }
+  .feature-content p{font-size: 18px;color: #999;}
+  
+  .feature-content{text-align: center;padding: 100px 0;}
+
+  .feautres{}
+  .feautres h2{font-size: 20px;font-weight: 600;}
+  .feautres p{color: #999;font-size: 15px;}
+
+  footer{background: black;color: white;}
+  .footer-content{text-align: center;padding: 45px 220px;}
+
+  .footer-content h1{font-size: 32px;font-weight: 700;color: #fcdb00;}
+  .footer-content p{font-size: 18px;color: #898989;margin-bottom: 20px;padding-bottom: 30px;}
+  .subscrib{}
+ .social-icon {} 
+ .social-icon li {padding: 0 10px;}
+.social-icon  li a{background-color: #fcdb00;width: 35px;display: flex;height: 35px;align-items: center;line-height: 35;border-radius: 3px;padding-left: 10px;color: black;}
+.social-icon  li a:hover{border:1px solid #fcdb00; background-color:transparent; text-decoration:none;color: #fcdb00;transition-duration: 0.4s;}
+
+.footer-bar{padding: 100px 0;}
+.footer-bar h3{font-size: 16px;padding-top: 5px;color: #999;}
+.footer-bar p{font-size: 13px;}
+.contanct-section{}
+.contanct-section ul{}
+.contanct-section ul li{font-size: 16px;list-style: none;color: #999;}
